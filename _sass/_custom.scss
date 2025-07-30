@@ -1,0 +1,25 @@
+// Custom styles for publication venue badges
+
+.publication {
+  position: relative;
+  padding-left: 100px; // Make space for the badge
+}
+
+.venue-container {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 80px; // Width of the badge area
+  text-align: center;
+}
+
+.venue-badge {
+  display: inline-block;
+  background-color: #28a745; // Green color
+  color: #ffffff; // White text
+  padding: 4px 8px;
+  font-size: 0.9rem;
+  font-weight: bold;
+  border-radius: 4px;
+  margin-top: 5px;
+}
