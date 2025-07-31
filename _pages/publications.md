@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /ublications/
+permalink: /Publications/
 title: Publications
 nav: true
 nav_order: 2
