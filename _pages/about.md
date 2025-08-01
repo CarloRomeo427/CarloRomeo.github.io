@@ -26,34 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
----
-layout: about
-title: About
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>University of Florence, Italy</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
-
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
----
-
 Hi everyone, this is Carlo Romeo!
 
 I am a PhD Student in Artificial Intelligence from the University of Florence.
@@ -79,10 +51,10 @@ Humans and animals are guided by Reinforcement Learning even if we still do not 
 
 What can I say more about me?
 - I L O V E the Lord of the Rings, and after years of re-watch, conferences about LoTR and scraping the LoTR Wiki, this year I committed myself into finally reading all the books. If Gondor calls for aid, Rohan will answer.
-- From Christmas 1999, when I received my PlayStation, I have been a relentless videogamer. My problem is that I like challenging games, so yeah... I am "quite" a Souls-like gamer.
+- Since Christmas 1999, when I received my PlayStation, I have been a relentless videogamer. My problem is that I like challenging games, so yeah... I am "quite" a Souls-like gamer.
 - I played guitar for years but my sound was not so rocky as I wanted.. Thus, after fooling with drums during a jam session with friends, I understood that kicking and hitting things with sticks was my real thing. So after years of dreaming to have a drums set, years spent in hitting sofa pillows with sticks to still learn some fills, this year I finally got my very own drums set! I wanna rock.. ROCK!
 - During the last year, I played Dungeons and Dragons for the first time.. I think that you already discovered the pattern behind all my hobbies.. What are the consequences of adding D&D into my life? Well, 1. new fantasy books to read; 2. tons of manuals to buy; 3. infinite characters to create. Bringing and living fantasy stories into real life with my friends has no price!
-- Last but definitily not the least, I have been with my beautiful girlfriend, Giulia, for almost 10 years. We live together in Florence and we work for our future every day more. Yeah, that's clear at this point that I am a commitment guy. 
+- Last but definitily not the least, I have been with my beautiful girlfriend, Giulia, for almost 10 years. We live together in Florence and we work every day more for our future. Yeah, that's clear at this point that I am a commitment guy. 
 
 
 
