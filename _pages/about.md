@@ -42,7 +42,9 @@ Then, completely out of the blue, I remembered one thing that I always did (and 
 But you may ask "Why Artificial Intelligence?" or "Why Reinforcement Learning?"...
 <!-- AI, in general, is the perfect match across all my interests.
 We can apply AI to almost every aspect of our life, and if there are some that still are not "**AI-ed**" we are working on how to do that! The idea that we may not even be at the beginning of the AI era gives me "zoomies" every time! -->
-To answer the second point, let me ask you something: have you ever heard about **Alan Turing**? Well, if yes, you can easily understand what truly lies behind my zoomies. Questions like "Could ever machines think at some point?", or "what humanity can achive with machines-empowerment?" hold me tight to the chair for hours every day, and this is were Reinforcement Learning kicks in!
+Let me ask you something: have you ever heard about **Alan Turing**? 
+<!-- Well, if yes, you can easily understand what truly lies behind my zoomies.  -->
+Questions like "Could ever machines think at some point?", or "what humanity can achive with machines-empowerment?" hold me tight to the chair for hours every day, and this is were Reinforcement Learning kicks in!
 Reinforcement Learning is the way to return on my origins by studing the **brain** and the **human behavior**, and look for a way to reproduce and empower them.
   <!-- , in general, to add a little brick into the history of mankind.
 It has been demonstrated as one of the most complex learning processes but also one of the most powerful!
