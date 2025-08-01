@@ -29,23 +29,17 @@ latest_posts:
 Hi everyone, this is Carlo Romeo!
 
 I am a PhD Student in Artificial Intelligence from the University of Florence.
-I was born in the beautiful Reggio Calabria, the southernmost city of the Italian peninsula!
-In Reggio Calabria, I took my B.Sc and M.Sc in Information and Communication Technology Engineering (ICT) at the Mediterranea University. This path lead me through the foundations of Computer Science, Electronics and Physics to get a holistic understanding of what the information is and what we could do.
-However, during the first year of M.Sc I took a course about Artificial Intelligence... and you can easily understand how things went after that!
+I was born in the beautiful Reggio Calabria, the southernmost city of the Italian peninsula, in which I took my B.Sc and M.Sc in Information and Communication Technology Engineering (ICT) at the Mediterranea University. This path lead me through the foundations of Computer Science, Electronics and Physics to get a holistic understanding of what the information is and what we could do with it. However, during the first year of M.Sc I took a course about Artificial Intelligence... and you can easily understand how things went after that!
 
 The motivations behind my studies are quite different and some are very personal.
-Even before getting into Engineering, my goal was to study the brain from a Medical point of view, because at the time my grandma started her fight against Alzheimer. So my curiosity and determination were fueled by love.
-Luckily, I understood in time that to be a doctor and deal with patients was not my inspiration, whereas I only wanted to stay in the background, locked in a lab to push the scientific progress on the matter!
+Even before getting into Engineering, my goal was to study the brain from a Medical point of view, to help humanity fight against neuro-degenerative pathologies (love you Granma). Luckily, I understood in time that to be a doctor and deal with patients was not my true inspiration, whereas I only wanted to stay in the background, locked in a lab to push the scientific progress on the matter!
+Then, completely out of the blue, I remembered one thing that I always did (and still do) since I was a child: I used to have a notebook in which I design things like plasma cannons, spaceships, super computers, lightsabers, humanoid robots, and every fantascientific thing that cross my path. At that point, it was obvious to me that I was meant for the Engineering life!
 
-What happened then is still surprising to me.. Completely out of the blue, I remembered one thing that I always did (and still do) since I was a child that strangely got forgotten for year: I used to have a notebook in which I design things.
-You may ask what kind of things.. Plasma cannons, spaceships, super computers, lightsabers, humanoid robots, and every fantascientific thing that cross my path!
-At that point, it was obvious to me that I was meant for the Engineering life!
-
-But you may ask "Why Artificial Intelligence?" or "Why Reinforcement Learning?"...
+But you may ask "Why Artificial Intelligence?" or "Why Reinforcement Learning?".
 AI, in general, is the perfect match across all my interests (current, past and for sure future)!
-We can apply AI to almost every aspect of our life, and if there are some that still are not "AIed" we are working on how to do that! During my studies I discovered how AI can support but most of all empower all the branches of Science that I love, such as Engineering, Physics and Medicine, but the idea that we are not even at the beginning of the AI era gives me zoomies every time!
+We can apply AI to almost every aspect of our life, and if there are some that still are not "AI-ed" we are working on how to do that! The idea that we are just scratching the surface of the the AI era gives me zoomies every time!
 
-For the second question, I will cut short by asking you a counter-question: have you ever heard about Isaac Asimov and most of all about Alan Turing? Well, if yes, you can easily understand what truly lies behind my "zoomies". Questions like "Could even machines think at some point?", "could we and how live along with machines?", or "what humanity can achive with machines-empowerment?" hold me tight to the chair for hours every day, and this is were Reinforcement Learning kicks in!
+For the second question, I will cut short by asking you a counter-question: have you ever heard about Isaac Asimov and most of all about Alan Turing? Well, if yes, you can easily understand what truly lies behind my "zoomies". Questions like "Could machines think at some point?" or "what humanity can achive with machines-empowerment?" hold me tight to the chair for hours every day, and this is were Reinforcement Learning kicks in!
 It has been demonstrated as one of the most complex learning processes but also one of the most powerful!
 Humans and animals are guided by Reinforcement Learning even if we still do not know what is the true Reward Function...
 
