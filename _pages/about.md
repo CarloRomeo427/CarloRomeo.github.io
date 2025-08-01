@@ -34,10 +34,9 @@ In Reggio Calabria, I took my B.Sc and M.Sc in **Information and Communication T
 <!-- This path lead me through the foundations of Computer Science, Electronics and Physics to get a holistic understanding of what the information is and what we could do. -->
 <!-- During the first year of M.Sc I took a course about **Artificial Intelligence**... and you can easily understand how things went after that! -->
 
-The motivations behind my studies are quite different and some are very personal.
-Even before getting into Engineering, as a kid my goal was to help the fight against **neuro-degenerative** pathologies (love you Grandma), so my curiosity and determination were fueled by love.
-Luckily, I understood in time that to be a doctor was not my true inspiration, whereas I only wanted to stay **locked** in with books!
-Then, completely out of the blue, I remembered one thing that I always did (and still do) since I was a child: I used to have a **notebook** in which I design things like plasma cannons, spaceships, super computers, lightsabers, humanoid robots, and every fantascientific thing that cross my path. At that point, it was obvious to me that I was meant for the Engineering life!
+The reasons behind my studies are quite diverse, and some are very personal.
+As a child my goal was to contribute to the fight against **neurodegenerative** diseases (love you Grandma), so my curiosity and determination were fueled by love. Luckily, I realized in time that becoming a doctor wasn't my true aspiration, I just wanted to stay **locked up** with my books!
+Then, completely out of the blue, I remembered something I had always done (and still do) since I was a child: I had a **notebook** in which I designed things like plasma cannons, spaceships, lightsabers, and robots. At that point, it became clear to me that I was meant for a life in engineering!
 
 But you may ask "Why Artificial Intelligence?" or "Why Reinforcement Learning?"
 <!-- AI, in general, is the perfect match across all my interests.
