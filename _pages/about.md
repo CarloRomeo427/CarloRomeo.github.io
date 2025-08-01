@@ -30,23 +30,24 @@ Hi everyone, this is Carlo!
 
 I am a **PhD Student** in Artificial Intelligence from the University of Florence.
 I was born in the beautiful **Reggio Calabria**, the southernmost city of the Italian peninsula!
-In Reggio Calabria, I took my B.Sc and M.Sc in **Information and Communication Technology Engineering** (ICT) at the Mediterranea University. This path lead me through the foundations of Computer Science, Electronics and Physics to get a holistic understanding of what the information is and what we could do.
-However, during the first year of M.Sc I took a course about **Artificial Intelligence**... and you can easily understand how things went after that!
+In Reggio Calabria, I took my B.Sc and M.Sc in **Information and Communication Technology Engineering** (ICT) at the Mediterranea University. 
+<!-- This path lead me through the foundations of Computer Science, Electronics and Physics to get a holistic understanding of what the information is and what we could do. -->
+<!-- During the first year of M.Sc I took a course about **Artificial Intelligence**... and you can easily understand how things went after that! -->
 
 The motivations behind my studies are quite different and some are very personal.
 Even before getting into Engineering, as a kid my goal was to help the scientific community in the fight against **neuro-degenerative** pathologies (love you Grandma), so my curiosity and determination were fueled by love.
 Luckily, I understood in time that to be a doctor was not my true inspiration, whereas I only wanted to stay in the **locked in a lab** to push the scientific progress forward!
 
-Then, completely out of the blue, something happened: I remembered one thing that I always did (and still do) since I was a child. I used to have a **notebook** in which I design things like plasma cannons, spaceships, super computers, lightsabers, humanoid robots, and every fantascientific thing that cross my path!
-At that point, it was obvious to me that I was meant for the Engineering life!
+Then, completely out of the blue, I remembered one thing that I always did (and still do) since I was a child: I used to have a **notebook** in which I design things like plasma cannons, spaceships, super computers, lightsabers, humanoid robots, and every fantascientific thing that cross my path. At that point, it was obvious to me that I was meant for the Engineering life!
 
 But you may ask "Why Artificial Intelligence?" or "Why Reinforcement Learning?"...
-AI, in general, is the perfect match across all my interests.
-We can apply AI to almost every aspect of our life, and if there are some that still are not "**AI-ed**" we are working on how to do that! The idea that we may not even be at the beginning of the AI era gives me "zoomies" every time!
-
-To answer the second point, let me ask you something: have you ever heard about **Isaac Asimov** and most of all about **Alan Turing**? Well, if yes, you can easily understand what truly lies behind my zoomies. Questions like "Could even machines think at some point?", or "what humanity can achive with machines-empowerment?" hold me tight to the chair for hours every day, and this is were Reinforcement Learning kicks in!
+<!-- AI, in general, is the perfect match across all my interests.
+We can apply AI to almost every aspect of our life, and if there are some that still are not "**AI-ed**" we are working on how to do that! The idea that we may not even be at the beginning of the AI era gives me "zoomies" every time! -->
+To answer the second point, let me ask you something: have you ever heard about **Isaac Asimov** and most of all about **Alan Turing**? Well, if yes, you can easily understand what truly lies behind my zoomies. Questions like "Could ever machines think at some point?", or "what humanity can achive with machines-empowerment?" hold me tight to the chair for hours every day, and this is were Reinforcement Learning kicks in!
+Reinforcement Learning is the way to return on my origins by studing the **brain** and the **human behavior**, and look for a way to reproduce and empower them.
+  <!-- , in general, to add a little brick into the history of mankind.
 It has been demonstrated as one of the most complex learning processes but also one of the most powerful!
-Humans and animals are guided by Reinforcement Learning even though we still do not know what is the true **Reward Function**...
+Humans and animals are guided by Reinforcement Learning even though we still do not know what is the true **Reward Function**... -->
 
 What can I say more about me?
 - I **L O V E** the Lord of the Rings, and after years of re-watch, conferences about LoTR and scraping the LoTR Wiki, this year I committed myself into finally reading all the books. If Gondor calls for aid, Rohan will answer.
